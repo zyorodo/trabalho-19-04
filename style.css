@@ -1,0 +1,17 @@
+h2 {
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(0, 60, 255);
+}
+
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(76, 0, 255);
+}
+
+.th {
+    color:rgb(68, 0, 255);
+}
+
+body {
+    background-color: rgb(202, 165, 43);
+} 
